@@ -1,4 +1,4 @@
-const repo = 'Sangwan5688/BlackHole';
+const repo = 'Sangwan5688/ave96';
 const endpoint = `https://api.github.com/repos/${repo}/releases`;
 
 const getReleaseData = async() => {
