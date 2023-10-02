@@ -62,6 +62,6 @@ window.onload = async() => {
       tableBody.innerHTML = finalHtml;
     }
   } catch (error) {
-    tableBody.innerHTML = `<tr><td colspan="7" class="text-center">Failed to load data. You can still check latest release on <a href="https://github.com/sangwan5688/blackHole/releases/latest/">GitHub</a></td></tr>`;
+    tableBody.innerHTML = `<tr><td colspan="7" class="text-center">Failed to load data. You can still check latest release on <a href="https://github.com/redshoxx/ave96/releases/latest/">GitHub</a></td></tr>`;
   }
 }
